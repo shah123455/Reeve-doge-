@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+user_limits.json
+.env
